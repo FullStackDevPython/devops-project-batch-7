@@ -1,0 +1,18 @@
+ 
+These are the most used git commands.
+1075  git add .
+ 1076  ls
+ 1077  git status
+ 1078  git rm --cached laila.txt
+ 1079  git status
+ 1080  git add .
+ 1081  git status
+ 1082  git commit -m "initial commit"
+ 1083  git status
+ 1084  git log
+ 1085  rm majnu.txt
+ 1086  ls
+ 1087  git status
+ 1088  git restore majnu.txt
+ 1089  ls
+ 1090  history
