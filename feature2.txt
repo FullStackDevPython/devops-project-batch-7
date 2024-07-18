@@ -4,3 +4,5 @@ This is a feature 2
 Very cool feature
 
 This is a mistake 
+
+another addition
